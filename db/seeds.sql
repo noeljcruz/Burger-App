@@ -1,0 +1,10 @@
+INSERT INTO burgers (burger_name, devoured) VALUES ('Luger Burger', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Le Pigeon Burger', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Double Animal Style', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('The Original Burger', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Whiskey King Burger', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('The Company Burger', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Chargrilled Burger with Roquefort Cheese', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Dyer’s Deep-Fried Burger', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('The Lola Burger', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Cheeseburger', false);
